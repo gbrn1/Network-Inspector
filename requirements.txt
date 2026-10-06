@@ -1,0 +1,5 @@
+# Network Inspector
+
+# Este projeto utiliza principalmente bibliotecas da biblioteca padrão do Python.
+
+# Nenhuma dependência externa é necessária no momento.
